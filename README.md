@@ -1,4 +1,4 @@
-# FiHi - AI-Powered Finance Game ??
+# FiHi - AI-Powered Finance Game 
 
 An interactive financial literacy game built during **Hack Battle**. FiHi uses the **Gemini API** to provide smart, real-time financial advice and game logic, helping users learn wealth management through gamification.
 

@@ -15,22 +15,22 @@ An interactive financial literacy game built during **Hack Battle**. FiHi uses t
 
 ##  Installation
 1. Clone the repo:
-   \\\ash
+     bash
    git clone https://github.com/aadeeshsanghi/Finance-Game.git
-   \\\
+  
 2. Install dependencies:
-   \\\ash
+   bash
    npm install
-   \\\
+   
 3. Set up your environment variables:
-   Create a \.env\ file and add:
-   \\\	ext
+   Create a .env file and add:
+   	ext
    VITE_GEMINI_API_KEY=your_api_key_here
-   \\\
-4. Run the development server:
-   \\\ash
-   npm run dev
-   \\\
 
-## ?? License
+4. Run the development server:
+      bash
+   npm run dev
+      
+
+##  License
 MIT
